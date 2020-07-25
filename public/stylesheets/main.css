@@ -1,0 +1,17 @@
+#delete-form {
+    display: inline;
+}
+
+.delete-form {
+    display: inline;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.specialFonts {
+    font-family: Montserrat Alternates;
+    color: dimgray;
+}
